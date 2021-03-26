@@ -4,6 +4,7 @@ content about app
 
 ### Authentication:
 
+<img src="Screenshots/1.jpg" width="200" />
 ![Screenshot](Screenshots/1.jpg | width=100) ![Screenshot](Screenshots/2.jpg)
 
 ### Authentication:
