@@ -15,14 +15,17 @@ New users can easily register, and already existing users can log in with their 
 ### Account:
 
 Each user gets posts directly on their <b>User's Feed</b> related to people they follow. They can view what's happening around them, and stay updated. Users can view their profile in <b>Account</b> section with their account details.
+
 <img src="Screenshots/3.jpg" width="200" /> <img src="Screenshots/4.jpg" width="200" />
 
 ### Community:
 
 Creating a community based app, connectivity is the most important feature for the project, users can find their friends and other users, view their profile and posts, and follow them for future updates.
+
 <img src="Screenshots/5.jpg" width="200" /> <img src="Screenshots/6.jpg" width="200" />
 
 ### Sharing stories:
 
 As a part of the community, it is possible for users to share their own stories which can be seen by their followers and viewers. This can be accomplished from Creating a new post in <b>Accounts</b> section. Users can share their stories which would be visible on their follower's feed.
+
 <img src="Screenshots/7.jpg" width="200" /> <img src="Screenshots/8.jpg" width="200" />
