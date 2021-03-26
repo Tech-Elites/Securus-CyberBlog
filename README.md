@@ -4,7 +4,7 @@ content about app
 
 ### Authentication:
 
-![Screenshot](Screenshots/1.jpg) ![Screenshot](Screenshots/2.jpg)
+![Screenshot](Screenshots/1.jpg | width=100) ![Screenshot](Screenshots/2.jpg)
 
 ### Authentication:
 
