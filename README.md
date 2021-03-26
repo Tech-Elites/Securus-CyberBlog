@@ -4,7 +4,7 @@ content about app
 
 ### Authentication:
 
-![Screenshot](Screenshots/3.PNG)
+![Screenshot](Screenshots/7.PNG) ![Screenshot](Screenshots/8.PNG)
 
 ### Authentication:
 
