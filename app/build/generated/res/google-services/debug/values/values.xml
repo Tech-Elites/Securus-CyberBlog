@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">285057472896-3esaf1aplbq7ufek0ois3rfesrmii5dc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">285057472896</string>
+    <string name="google_api_key" translatable="false">AIzaSyBZNKhPbUnny2dWOeg-p30aAj1ORZfT_tM</string>
+    <string name="google_app_id" translatable="false">1:285057472896:android:17462fd3ed609e6a41c965</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBZNKhPbUnny2dWOeg-p30aAj1ORZfT_tM</string>
+    <string name="google_storage_bucket" translatable="false">securus-bf653.appspot.com</string>
+    <string name="project_id" translatable="false">securus-bf653</string>
+</resources>
