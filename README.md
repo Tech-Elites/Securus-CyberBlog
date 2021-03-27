@@ -8,9 +8,9 @@ This idea is implemented in 2 modules, one of which is the android application w
 
 ### Installation:
 
-Open the .apk file for installation, note that Play store will warn about the security of the app, but it is because the app is note registered with them. We ensure that the app is completely safe to use, so proceed with the installation.
+Open the .apk file for installation, note that Play store will warn about the security of the app, but it is because the app is note registered with them. We ensure that the app is completely safe to use, so proceed with the installation. Click on "Install anyways".
 
-<img src="Screenshots/0.PNG" width="150" />
+<img src="Screenshots/0.PNG" width="250" />
 
 ### Authentication:
 
