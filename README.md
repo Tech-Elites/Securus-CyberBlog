@@ -6,6 +6,12 @@ The Securus cyber blog project aims to tackle cyber attacks and cyber threats an
 
 This idea is implemented in 2 modules, one of which is the android application which aims to connect users, share their thoughts and ask their queries. It runs on Firebase servers and uses Firestore to store user information and provide its best use to everyone.
 
+### Installation:
+
+Open the .apk file for installation, note that Play store will warn about the security of the app, but it is because the app is note registered with them. We ensure that the app is completely safe to use, so proceed with the installation.
+
+<img src="Screenshots/0.PNG" width="150" />
+
 ### Authentication:
 
 New users can easily register, and already existing users can log in with their email ids. Each user's data is maintained and user's recieve personlised information on their handset.
@@ -35,6 +41,10 @@ The to do list for this app's update consists of setting up the service to verif
 ## Python Bot - Salvus
 
 The python based safe web browser is the second module of the project. Taking the information recieved from users, it acts on that data and takes specific decisions to keep all the users safe from the threats reported. The python bot updates it data directly from the securus database and blocks all the reported websites to keep the users secure.
+
+### Installation:
+
+Download the folder, and go to "dist" folder inside, and open the Salvus.exe file as an administrator. This will open the safe browser for you.
 
 ### Safe browser
 
