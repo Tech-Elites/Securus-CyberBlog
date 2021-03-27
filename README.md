@@ -41,8 +41,8 @@ The python based safe web browser is the second module of the project. Taking th
 The browser can be opened by the Salvus.exe file. This, using chrome webdriver, opens a browser which is connected with the python script and uses it to block possibly threat containing websites.
 
 <img src="Screenshots/9.PNG" width="200" />
-<img src="Screenshots/10.PNG" width="500" />
+<img src="Screenshots/11.PNG" width="500" />
 
 As an example, website "spi.com" was registered as a threat by a user on the Securus app, so this website is not reachable. Similarly with the information available, we aim to secure these threats and provide a safe working environment for everyone.
 
-<img src="Screenshots/11.PNG" width="500" />
+<img src="Screenshots/10.PNG" width="500" />
